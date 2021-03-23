@@ -1,6 +1,6 @@
 {
   "name": "igrejaadventista/plugin-advanced-custom-fields-pro",
   "license": "proprietary",
-  "type": "project",
+  "type": "wordpress-plugin",
   "description": ""
 }
